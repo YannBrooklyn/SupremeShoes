@@ -1,0 +1,15 @@
+ 
+dj-database-url==2.1.0
+Django==5.0.4
+django-filter==24.2
+django-rest-framework==0.1.0
+django-cors-headers==4.3.1
+djangorestframework==3.15.1
+mysql-connector-python==8.4.0
+PyJWT==2.8.0
+PyMySQL==1.1.0
+pyOpenSSL==24.1.0
+requests==2.31.0
+sqlparse==0.5.0
+urllib3==2.2.1
+urllib3-secure-extra==0.1.0
